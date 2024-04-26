@@ -1,6 +1,10 @@
 # x61-screen-driver
 
-The idea is to build a display driver to make the screen output to HDMI, since the ones on aliexpress/ebay are bulky and don't specify compatibility with this screen.
+So far this is just collecting information...  
+
+The idea is to eventually build a display driver pcb to make the screen output to HDMI.  
+
+Options for these screens on aliexpress/ebay are bulky and don't seem to be compatible with these screens either.
 
 ## Information:
 
